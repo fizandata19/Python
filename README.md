@@ -36,3 +36,17 @@ print("Sum is",(a+b))
 u = int(input("Enter a Num1= "))
 v = int(input("Enter a Num2= "))
 print("Reminder of u divided by v is:",u % v)
+# Check the type of variable assigned using input () function
+a = input("Enter the value of a: ")
+print(type(a))
+'''Use comparison operator to find out whether ‘a’ given variable a is greater than
+‘b’ or not. Take a = 34 and b = 80'''
+a = 34
+b = 80
+print(a>b)
+# Write a python program to find an average of two numbers entered by the user
+a = int(input("Enter a num1 = "))
+b = int(input("Enter a num2 = "))
+c = (a+b)/2
+d = round(c)
+print(d)
