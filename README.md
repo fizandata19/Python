@@ -50,3 +50,7 @@ b = int(input("Enter a num2 = "))
 c = (a+b)/2
 d = round(c)
 print(d)
+# Write a python program to calculate the square of a number entered by the user.
+a = int(input("Enter a num1 = "))
+b = a**2
+print(b)
