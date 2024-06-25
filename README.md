@@ -24,12 +24,12 @@ num1 = 2
 num2 = 10
 c = (num1 + num2)
 print(c)
-# Write a python program to find the remainder when a number is divided by z.
+# Write a Python program to find the remainder when a number is divided by z.
 a = 10
 b = 3
 c = a % b
 print(c)
-# Write a python for add numbers and input to get a user
+# Write a Python for add numbers and input to get a user
 a = int(input("Enter a num1: "))
 b = int (input("Enter a num2: "))
 print("Sum is",(a+b))
