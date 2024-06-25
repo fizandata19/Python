@@ -29,3 +29,7 @@ a = 10
 b = 3
 c = a % b
 print(c)
+# Write a python for add numbers and input to get a user
+a = int(input("Enter a num1: "))
+b = int (input("Enter a num2: "))
+print("Sum is",(a+b))
