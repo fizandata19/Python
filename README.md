@@ -58,3 +58,7 @@ print(b)
 Text = "Python"
 result = Text[2] + Text[-2]
 print(result)
+#Program for Index
+Name = "Fizanlatif"
+Name_Short = Name[0:3]
+print(Name_Short)
