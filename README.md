@@ -54,3 +54,7 @@ print(d)
 a = int(input("Enter a num1 = "))
 b = a**2
 print(b)
+# Write a program to print the string through to Index
+Text = "Python"
+result = Text[2] + Text[-2]
+print(result)
