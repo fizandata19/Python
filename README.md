@@ -62,3 +62,6 @@ print(result)
 Name = "Fizanlatif"
 Name_Short = Name[0:3]
 print(Name_Short)
+# len function in Python
+b = "Fizanlatif"
+len(b)
