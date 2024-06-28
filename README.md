@@ -65,3 +65,6 @@ print(Name_Short)
 # len function in Python
 b = "Fizanlatif"
 len(b)
+# Missing String in Python
+Name = "Fizanlatif"
+Name[1:8:2]
