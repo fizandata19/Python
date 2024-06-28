@@ -74,4 +74,7 @@ Name.startswith('Fi')
 # Endswith Function in Python
 Name = "Fizanlatif"
 Name.endswith("fi")
+# Title Function in Python
+Story = "i am a student"
+Story.title()
 
