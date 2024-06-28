@@ -86,3 +86,6 @@ Name.upper()
 # LowerCase Function in Python
 Name = "Fizanlatif"
 Name.lower()
+# Replace Function in Python
+Name = "Fizanlatif"
+Name.replace("Fizanlatif","Ali")
