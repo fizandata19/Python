@@ -83,3 +83,6 @@ Name.capitalize()
 # UpperCase Function in Python
 Name = "Fizanlatif"
 Name.upper()
+# LowerCase Function in Python
+Name = "Fizanlatif"
+Name.lower()
