@@ -77,4 +77,6 @@ Name.endswith("fi")
 # Title Function in Python
 Story = "i am a student"
 Story.title()
-
+# Capitalize Function in Python
+Name = "fizanlatif"
+Name.capitalize()
