@@ -80,3 +80,6 @@ Story.title()
 # Capitalize Function in Python
 Name = "fizanlatif"
 Name.capitalize()
+# UpperCase Function in Python
+Name = "Fizanlatif"
+Name.upper()
