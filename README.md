@@ -68,3 +68,6 @@ len(b)
 # Missing String in Python
 Name = "Fizanlatif"
 Name[1:8:2]
+# str function in Python
+Name = "Fizanlatif"
+Name.startswith('Fi')
