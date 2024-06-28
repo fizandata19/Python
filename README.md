@@ -89,3 +89,12 @@ Name.lower()
 # Replace Function in Python
 Name = "Fizanlatif"
 Name.replace("Fizanlatif","Ali")
+# Split Function in Python
+Name = "Fizanlatif"
+Name.split('Fizan')
+# Alnum Function in Python
+Name = "Fizanlatif"
+Name.isalnum()
+# Alpha Function in Python
+Name = "Fizanlatif"
+Name.isalpha()
