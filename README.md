@@ -71,3 +71,7 @@ Name[1:8:2]
 # str function in Python
 Name = "Fizanlatif"
 Name.startswith('Fi')
+# Endswith Function in Python
+Name = "Fizanlatif"
+Name.endswith("fi")
+
