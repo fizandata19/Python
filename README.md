@@ -100,3 +100,7 @@ Name = "Fizanlatif"
 Name.isalpha()
 c= "Where are you from?\nI am from Pakistan."
 print(c)
+"""Write a python program to display a user entered name followed by Good
+Afternoon using input () function."""
+User_Name = input("Enter Your name:")
+print(f"{User_Name},Good Morning!")
