@@ -98,3 +98,5 @@ Name.isalnum()
 # Alpha Function in Python
 Name = "Fizanlatif"
 Name.isalpha()
+c= "Where are you from?\nI am from Pakistan."
+print(c)
