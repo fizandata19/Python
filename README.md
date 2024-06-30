@@ -107,3 +107,7 @@ print(f"{User_Name},Good Morning!")
 # Write a program to detect double space in a string.
 name = "Fizanl atif"
 name.find(" ")
+"""Write a program to format the following letter using escape sequence
+characters."""
+letter = "Dear Harry, \nthis python is nice. \nThanks!"
+print(letter.title())
