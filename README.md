@@ -104,3 +104,6 @@ print(c)
 Afternoon using input () function."""
 User_Name = input("Enter Your name:")
 print(f"{User_Name},Good Morning!")
+# Write a program to detect double space in a string.
+name = "Fizanl atif"
+name.find(" ")
