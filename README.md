@@ -1,4 +1,4 @@
-# Python
+# Variable in Python
 # Variable
 a = 1
 # a is a variable that stores data inside it.
