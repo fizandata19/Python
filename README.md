@@ -111,3 +111,12 @@ name.find(" ")
 characters."""
 letter = "Dear Harry, \nthis python is nice. \nThanks!"
 print(letter.title())
+# Sorting function in list
+numbers = [1,4,6,7,5,3,2]
+numbers.sort()
+print(numbers)
+# Reverse function in list
+numbers = [1,3,5,7,6,4]
+numbers.sort()
+numbers.reverse()
+print(numbers)
